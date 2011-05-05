@@ -1,16 +1,16 @@
-¹ê¾Ô PHP ­«ºc»P¼Ò¦¡
+å¯¦æˆ° PHP é‡æ§‹èˆ‡æ¨¡å¼
 ================
 
-½u¤W§ë¼v¤ù¡G http://www.slideshare.net/jaceju/refactoring-with-patterns-in-php
+ç·šä¸ŠæŠ•å½±ç‰‡ï¼š http://www.slideshare.net/jaceju/refactoring-with-patterns-in-php
 
-»¡©ú
+èªªæ˜
 ------
-* 00_orig : ­ì©lµ{¦¡½X
-* 01_extract_method : ¥H Extract Method ­«ºc
-* 02_model_order : ±N DAO «Ê¸Ë¦Ü Model ¤¤
-* 03_constant : ±N¥ş°ì±`¼Æ§ï¬°Ãş§O±`¼Æ
-* 04_chain_of_responsibility : ¥H Chain of Responsibility ¼Ò¦¡­«ºc
-* 05_switch : ±N if ... elseif ... else §ï¬° switch
-* 06_strategy : ¥H Strategy ¼Ò¦¡­«ºc
-* 07_extract_method_again : ¦A¦¸¹ïµ{¦¡½X°µ Extract Method ­«ºc
-* 08_template_method : ¥H Template Method ¼Ò¦¡­«ºc
+* 00_orig : åŸå§‹ç¨‹å¼ç¢¼
+* 01_extract_method : ä»¥ Extract Method é‡æ§‹
+* 02_model_order : å°‡ DAO å°è£è‡³ Model ä¸­
+* 03_constant : å°‡å…¨åŸŸå¸¸æ•¸æ”¹ç‚ºé¡åˆ¥å¸¸æ•¸
+* 04_chain_of_responsibility : ä»¥ Chain of Responsibility æ¨¡å¼é‡æ§‹
+* 05_switch : å°‡ if ... elseif ... else æ”¹ç‚º switch
+* 06_strategy : ä»¥ Strategy æ¨¡å¼é‡æ§‹
+* 07_extract_method_again : å†æ¬¡å°ç¨‹å¼ç¢¼åš Extract Method é‡æ§‹
+* 08_template_method : ä»¥ Template Method æ¨¡å¼é‡æ§‹
