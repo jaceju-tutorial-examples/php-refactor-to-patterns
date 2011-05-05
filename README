@@ -1,0 +1,16 @@
+龟驹 PHP 篶籔家Α
+================
+
+絬щ紇 http://www.slideshare.net/jaceju/refactoring-with-patterns-in-php
+
+弧
+------
+* 00_orig : ﹍祘Α絏
+* 01_extract_method :  Extract Method 篶
+* 02_model_order : 盢 DAO 杆 Model い
+* 03_constant : 盢办盽计э摸盽计
+* 04_chain_of_responsibility :  Chain of Responsibility 家Α篶
+* 05_switch : 盢 if ... elseif ... else э switch
+* 06_strategy :  Strategy 家Α篶
+* 07_extract_method_again : Ω癸祘Α絏暗 Extract Method 篶
+* 08_template_method :  Template Method 家Α篶
